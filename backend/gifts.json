@@ -1,0 +1,18 @@
+[
+  {"name": "Wooden Bookshelf", "category": "Furniture", "condition": "Good", "age_years": 3, "description": "Sturdy 5-shelf wooden bookshelf, minor scuffs.", "image": "bookshelf.jpg", "date_added": 1690000000},
+  {"name": "Kids Bicycle", "category": "Sports", "condition": "Fair", "age_years": 5, "description": "16-inch kids bike, needs new tires.", "image": "bicycle.jpg", "date_added": 1690000001},
+  {"name": "Coffee Table", "category": "Furniture", "condition": "Excellent", "age_years": 1, "description": "Glass-top coffee table, like new.", "image": "coffeetable.jpg", "date_added": 1690000002},
+  {"name": "Board Game Set", "category": "Toys", "condition": "Good", "age_years": 2, "description": "Set of 5 classic board games, all pieces included.", "image": "boardgames.jpg", "date_added": 1690000003},
+  {"name": "Winter Jacket", "category": "Clothing", "condition": "Good", "age_years": 2, "description": "Men's large winter jacket, warm and water-resistant.", "image": "jacket.jpg", "date_added": 1690000004},
+  {"name": "Desk Lamp", "category": "Electronics", "condition": "Excellent", "age_years": 1, "description": "LED desk lamp with adjustable brightness.", "image": "lamp.jpg", "date_added": 1690000005},
+  {"name": "Dining Chairs (Set of 4)", "category": "Furniture", "condition": "Fair", "age_years": 6, "description": "Wooden dining chairs, some wear on the fabric.", "image": "chairs.jpg", "date_added": 1690000006},
+  {"name": "Blender", "category": "Kitchen", "condition": "Good", "age_years": 2, "description": "Countertop blender, works perfectly.", "image": "blender.jpg", "date_added": 1690000007},
+  {"name": "Guitar", "category": "Music", "condition": "Good", "age_years": 4, "description": "Acoustic guitar, needs new strings.", "image": "guitar.jpg", "date_added": 1690000008},
+  {"name": "Baby Crib", "category": "Baby", "condition": "Excellent", "age_years": 1, "description": "Convertible baby crib, barely used.", "image": "crib.jpg", "date_added": 1690000009},
+  {"name": "Office Chair", "category": "Furniture", "condition": "Good", "age_years": 3, "description": "Ergonomic office chair with lumbar support.", "image": "officechair.jpg", "date_added": 1690000010},
+  {"name": "Yoga Mat", "category": "Sports", "condition": "Excellent", "age_years": 1, "description": "Non-slip yoga mat, like new.", "image": "yogamat.jpg", "date_added": 1690000011},
+  {"name": "Microwave Oven", "category": "Kitchen", "condition": "Fair", "age_years": 5, "description": "Compact microwave, works but has some rust.", "image": "microwave.jpg", "date_added": 1690000012},
+  {"name": "Toy Train Set", "category": "Toys", "condition": "Good", "age_years": 3, "description": "Wooden train set with tracks, missing one car.", "image": "trainset.jpg", "date_added": 1690000013},
+  {"name": "Area Rug", "category": "Home Decor", "condition": "Good", "age_years": 2, "description": "5x7 area rug, neutral color, slight fading.", "image": "rug.jpg", "date_added": 1690000014},
+  {"name": "Standing Fan", "category": "Electronics", "condition": "Excellent", "age_years": 1, "description": "Oscillating standing fan, three speed settings.", "image": "fan.jpg", "date_added": 1690000015}
+]
